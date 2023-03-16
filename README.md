@@ -1,4 +1,4 @@
-# React Admin Dashboard
+# React Dashboard
 
-Completed React Admin Dashboard Repo
+Simple React dashboard
 
